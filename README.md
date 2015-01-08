@@ -1,0 +1,2 @@
+# asciidoctor-version
+A simple README that just displays the version of AsciiDoctor used by GitHub
